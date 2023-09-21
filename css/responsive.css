@@ -173,7 +173,7 @@
     }
 }
 
-@media (min-width: 280px) and (max-width: 412px) {
+@media (min-width: 280px) and (max-width: 500px) {
     a.floating-button {
         position: fixed;
         bottom: 20px;
