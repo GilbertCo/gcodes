@@ -36,7 +36,7 @@ h3 {
 
 #home-cover {
     height: 100%;
-    background-image: url("../img/bg-home.jpg");
+    background-image: url("../img/bg-home.jpeg");
 }
 
 
@@ -235,7 +235,7 @@ h3 {
     width: 60%;
     height: 700px;
     float: right;
-    background-image: url(../img/bg-about.jpg);
+    background-image: url(../img/bg-about.jpeg);
     border-left: 200px solid rgb(203, 207, 209);
     border-top: 700px solid transparent;
 
